@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6fHq8oCUNbprBSizE76S3HoeDy40S8GDQim5jmXNgFw=",
+  "Source": "CloudWeather.DataLoader",
+  "BasePath": "_content/CloudWeather.DataLoader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
